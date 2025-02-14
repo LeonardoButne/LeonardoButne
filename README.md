@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Leonardo Butne</h1>
 <h3 align="center">Apaixonado por desenvolvimento de softwares</h3>
 
-- 🌱 Atualmente estou aprendendo **Node, Angular, Automacao com Python, entre outras**
+- 🌱 Atualmente estou aprendendo **Node, Vue.js, Automacao com Python, entre outras**
 
 - 👨‍💻 Todos os meus projectos estão disponíveis em [github.com/LeonardoButne](github.com/LeonardoButne)
 
